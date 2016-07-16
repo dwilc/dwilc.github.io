@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Dale Wilcox
+description:      Philosophy of Composition
+disqus_shortname: dwilc
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,13 +9,13 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Dale Wilcox
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "I'm a communications consultant&mdash;I help you share your stories with others to advance your cause, grow your community or build your business."
+  email:          dale@dwilcox.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:        dwilc
+  facebook:       dwilc
   github:         
   stackexchange:  
   linkedin:       
