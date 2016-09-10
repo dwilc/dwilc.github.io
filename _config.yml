@@ -14,8 +14,8 @@ owner:
   bio:            "I'm a communications consultant&mdash;I help you share your stories with others to advance your cause, grow your community or build your business."
   email:          dale@dwilcox.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        dwilc
-  facebook:       dwilc
+  twitter:
+  facebook:
   github:         
   stackexchange:  
   linkedin:       
