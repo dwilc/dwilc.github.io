@@ -3,7 +3,6 @@ layout: post
 title: Cartooning
 description: "The 13th Rule for Radicals, this time from the right"
 modified: 
-comments: true
 tags: [tactics, national]
 image:
   feature: saul.jpg
