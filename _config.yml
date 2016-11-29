@@ -1,6 +1,6 @@
 title:            Dale Wilcox
 description:      Philosophy of Composition
-disqus_shortname: 
+disqus_shortname: dwilc
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -14,7 +14,7 @@ owner:
   bio:            "I'm a communications consultant&mdash;I help you share your stories with others to advance your cause, grow your community or build your business."
   email:          dwilcox.net@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: 	 dwilcoxnet
+  twitter: 	 
   facebook:
   github:         
   stackexchange:  
