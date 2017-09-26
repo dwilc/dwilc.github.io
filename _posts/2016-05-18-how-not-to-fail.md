@@ -7,6 +7,7 @@ comments: false
 tags: [democrats, national]
 image:
   feature: bernie.jpg
+  path: /images/bernie.jpg
   credit: Gage Skidmore
   creditlink: https://www.flickr.com/photos/gageskidmore/19825317331
 ---

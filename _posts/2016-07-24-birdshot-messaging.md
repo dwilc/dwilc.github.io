@@ -3,9 +3,11 @@ layout: post
 title: Birdshot Messaging
 description: "Birdshot messages are volleys of independent fact statements spoken at once."
 modified: 
+comments: false
 tags: [tactics, message]
 image: 
   feature: Shot.jpg
+  path: /images/Shot.jpg
   credit: DiverDave
   creditlink: https://en.wikipedia.org/wiki/User:DiverDave/Images
 ---
